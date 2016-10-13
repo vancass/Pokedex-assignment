@@ -55,7 +55,7 @@ The detail contains:
 
 ### Bonus
 
-1) Display all level_up skills ename in the pokemon description.<br/>(in `/data/pokedex.json` and `/data/skills.json`)
+1) Display all level_up skills ename in the pokemon description.(in `/data/pokedex.json` and `/data/skills.json`)<br/>
 2) Display the skill description on hover skill ename.<br/>
 This description contains ename, id, type, accuracy, pp and power.
 
