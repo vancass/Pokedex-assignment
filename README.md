@@ -28,11 +28,11 @@ For each pokemon, we should see the ename, id and theme (in `/images/thm/`).<br/
 The detail should be in the same view and extend the container.<br/>
 It should do not load an other page or open in popup or popin.<br/>
 The detail contains:
- * ename
+ * ename (in `/data/pokedex.json`)
  * id
  * sprite (in `/images/spr/`)
  * image (in `/images/img/`)
- * types
+ * types (in `/data/types.json`)
  * Attack
  * Defense
  * HP
@@ -55,7 +55,7 @@ The detail contains:
 
 ### Bonus
 
-1) Display all level_up skills ename in the pokemon description.<br/>
+1) Display all level_up skills ename in the pokemon description.<br/>(in `/data/pokedex.json` and `/data/skills.json`)
 2) Display the skill description on hover skill ename.<br/>
 This description contains ename, id, type, accuracy, pp and power.
 
