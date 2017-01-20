@@ -43,7 +43,7 @@ The detail contains:
 
 8) Make a clean Readme that explains how to install and run your project.<br/>
 9) Send your github repository to us and we will check it ;-)<br/>
-   Please send your work to Ilyess Zenasni and Charlotte Lordet for review : **zenasni.ilyess@gmail.com** and **chlordet@maltem.com**<br/>
+   Please send your work to Ilyess Zenasni and Charlotte Lordet for review : **izenasni@maltem.com** and **chlordet@maltem.com**<br/>
 
 ### Specification
 
