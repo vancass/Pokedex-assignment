@@ -1,12 +1,12 @@
-# Pokedex - AngularJS developer assignment
+# Pokedex - ReactJS developer assignment
 
-This document contains description and requirements for assignment for AngularJS FrontEnd developer skills.
+This document contains description and requirements for assignment for ReactJS NodeJS FullStack developer skills.
 
 ### Goal
 
 
 The goal is to verify that the applicant is able to:
-- Make a new AngularJS project
+- Make a new ReactJS and NodeJS project
 - Make responsive view
 - Write clean code
 - Cover the code with unit tests
@@ -16,7 +16,7 @@ The goal is to verify that the applicant is able to:
 ### Requirements
 
 1) Create public github repository that you will send to us.<br/>
-2) For implementation you should and can only use **AngularJS** with any framework **NodeJS** or **PHP**.<br/>
+2) For implementation you should and can only use **ReactJS** with any framework **NodeJS**.<br/>
 3) Create a single page that list all pokemons.<br/>
 All datas are stored in `/data/`<br/>
 All images are stored in `/images/`<br/>
@@ -43,7 +43,7 @@ The detail contains:
 
 8) Make a clean Readme that explains how to install and run your project.<br/>
 9) Send your github repository to us and we will check it ;-)<br/>
-   Please send your work to Ilyess Zenasni and Charlotte Lordet for review : **izenasni@maltem.com** and **chlordet@maltem.com**<br/>
+   Please send your work to Ilyess Zenasni for review : **ilyess@sleek.sg**<br/>
 
 ### Specification
 
@@ -58,9 +58,4 @@ The detail contains:
 1) Display all level_up skills ename in the pokemon description.(in `/data/pokedex.json` and `/data/skills.json`)<br/>
 2) Display the skill description on hover skill ename.<br/>
 This description contains ename, id, type, accuracy, pp and power.
-
-### Hints
-- Components?
-- Factory?
-- Directives?
 
