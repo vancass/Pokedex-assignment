@@ -6,17 +6,16 @@ This document contains description and requirements for assignment for ReactJS N
 
 
 The goal is to verify that the applicant is able to:
-- Make a new ReactJS and NodeJS project
-- Make responsive view
+- Make a new ReactJS project
+- Make responsive views
 - Write clean code
-- Cover the code with unit tests
 - Use git
 - Write short and clean documentation
 
 ### Requirements
 
 1) Create public github repository that you will send to us.<br/>
-2) For implementation you should and can only use **ReactJS** with any framework **NodeJS**.<br/>
+2) For implementation you should and can only use **ReactJS**.<br/>
 3) Create a single page that list all pokemons.<br/>
 All datas are stored in `/data/`<br/>
 All images are stored in `/images/`<br/>
@@ -24,7 +23,7 @@ For each pokemon, we should see the ename, id and theme (in `/images/thm/`).<br/
 4) The user should be able to sort pokemons ASC and DESC on fields: name, id, type.<br/>
 5) The user should be able to filter pokemons on the previous fields.<br/>
 6) The user should be able to search any pokemon by name.<br/>
-7) The user should be able to see the detail of a pokemon when click on it.<br/>
+7) The user should be able to see the detail of a pokemon when click / hover on it.<br/>
 The detail should be in the same view and extend the container.<br/>
 It should do not load an other page or open in popup or popin.<br/>
 The detail contains:
@@ -47,7 +46,7 @@ The detail contains:
 
 ### Specification
 
-* The  code needs to work after we pull it and try it (no bugs).
+* The  code needs to work after we pull and try it (no bugs).
 * The view should be responsive and beautiful.<br/>
 * Organisation is the key. Make something clean and understandable.
 * You can use any Graphics library
